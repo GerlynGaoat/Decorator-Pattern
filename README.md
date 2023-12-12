@@ -35,3 +35,4 @@ The decorator pattern allows for dynamic and flexible features for different typ
 - `showBenefits()` returns the benefits associated with each account type.
 - `computeBalanceWithInterest()` calculates the new balance with added interest based on the interest rate.
 - `showInfo()` returns details of the account, including the account number, account name, and balance.
+![Screenshot 2023-12-13 040559](https://github.com/GerlynGaoat/Decorator-Pattern/assets/143424785/f0e54daf-02d7-4e97-85a1-98a70ce57d6c)
